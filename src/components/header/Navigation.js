@@ -8,7 +8,7 @@ const Navigation = () => {
                 <div className="container">
                     <NavbarBrand href="/">Momentwala</NavbarBrand>
                 </div>
-                <NavbarBrand href="/">Momentwala</NavbarBrand>
+                {/* <NavbarBrand href="/">Momentwala</NavbarBrand> */}
             </Navbar>
         </div>
     )
